@@ -2,6 +2,9 @@ html {
   background: #702c66;
 }
 
+body{
+    background-color: black;
+};
 
 #banner {
   margin-left: 100px;
